@@ -8,6 +8,7 @@ $ ec2 ssh -n dashboard
 ```
 It automatically finds all instances in your account that match the given name and list them for you, so you can easily navigate and choose which one to connect to.
 
+![EC2-CLI Demo](https://raw.githubusercontent.com/Colex/ec2-cli/master/demo.gif)
 
 ## Installation
 ```shell
