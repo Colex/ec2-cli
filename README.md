@@ -50,9 +50,9 @@ Then choose which instance you want to connect to.
 If you are dealing with hundreds of instances, this list can be overwhelming. Therefore, you may use the option `ec2 ssh --name [regex]` to filter the instances.
 ```shell
 $ ec2 ssh -n spark
-4) i-81ach562 (spark-slave)
-5) i-27godf99 (spark-slave)
-6) i-111111bb (spark-master)
+1) i-81ach562 (spark-slave)
+2) i-27godf99 (spark-slave)
+3) i-111111bb (spark-master)
 Use the arrows to navigate up and down or ESC to exit
 Select a row [0-9]:
 ```
