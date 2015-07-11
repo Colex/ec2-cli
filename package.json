@@ -1,0 +1,36 @@
+{
+  "name": "ec2-cli",
+  "version": "1.0.0",
+  "description": "Command line interface for managing EC2 instances",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "ec2": "./bin/ec2"
+  },
+  "bugs": {
+    "url": "https://github.com/Colex/ec2-cli/issues"
+  },
+  "author": "Alex Correia Santos",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aws-sdk": "^2.1.37",
+    "bluebird": "^2.9.33",
+    "commander": "^2.8.1",
+    "keypress": "^0.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Colex/ec2-cli.git"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "ec2",
+    "instance"
+    "amazon",
+    "web",
+    "services",
+    "aws",
+    "ssh"
+  ]
+}
