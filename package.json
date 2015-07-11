@@ -1,6 +1,6 @@
 {
   "name": "ec2-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Command line interface for managing EC2 instances",
   "main": "index.js",
   "scripts": {},
